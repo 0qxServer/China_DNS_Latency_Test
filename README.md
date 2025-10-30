@@ -2,7 +2,6 @@
 # 将以下内容复制到powershell 执行，自动输出结果。
 
 # DNS 解析延迟测试
-# 保存为 test-dns-with-progress.ps1 然后右键“使用 PowerShell 运行”
 
 Clear-Host
 Write-Host "===============================================" -ForegroundColor Cyan
