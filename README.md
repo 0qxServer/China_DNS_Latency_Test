@@ -1,4 +1,4 @@
-# DNSTEST
+# 中国DNS以及常见DNS延迟测试
 # 将以下内容复制到powershell 执行，自动输出结果。
 
 # DNS 解析延迟测试
